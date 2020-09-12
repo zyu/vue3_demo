@@ -17,7 +17,7 @@ CompositionAPI详解
 官⽅API https://composition-api.vuejs.org/api.htm
 
 ```yarn create vite-app vite
-cd demo
+cd vue3_demo
 yarn
 yarn dev
 ```
